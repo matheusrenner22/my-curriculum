@@ -23,6 +23,11 @@
     display: block;
 }
 
+.header .nickname {
+    color: #696969;
+    font-size: 1rem;
+}
+
 @media (max-width: 800px) {
     .header {
         flex-direction: column;
